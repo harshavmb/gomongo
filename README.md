@@ -1,0 +1,2 @@
+# gomongo
+MongoDB with golang
